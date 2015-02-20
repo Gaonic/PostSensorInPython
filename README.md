@@ -1,2 +1,2 @@
 # PostSensorInPython
-Example On how to Post Sensor with Pythin to Gaonic Platform
+Example On how to Post Sensor with Python to Gaonic Platform
